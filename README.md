@@ -1,7 +1,14 @@
 # springboot-人事管理系统 / springboot-HRMS
 
-![SpringBoot](https://spring.io/projects/spring-boot)
-![Vue](https://vuejs.org/)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7%2B-brightgreen) 
+![MyBatisPlus](https://img.shields.io/badge/MyBatisPlus-2.3-blue) 
+![Shiro](https://img.shields.io/badge/Shiro-1.3.2-orange) 
+![Vue](https://img.shields.io/badge/Vue-2.x-green) 
+![ElementUI](https://img.shields.io/badge/ElementUI-2.15-teal) 
+![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-blueviolet) 
+![Hutool](https://img.shields.io/badge/Hutool-4.0-red) 
+![Fastjson](https://img.shields.io/badge/Fastjson-1.2-yellow) 
+![ApacheCommons](https://img.shields.io/badge/Apache_Commons-3.12-lightgrey)
 
 > 更多毕设项目可跳转至项目导航栏检索：[毕设项目](http://sysadmin.3vfree.vip)，需要联系博主v：xq-lucky311，q：1047944234
 
@@ -63,8 +70,6 @@ spring:
 # 项目实际截图：
 ## 登录：
 ![登录页](xx/login.png)
-
-## 前台：
 
 ## 后台：
 ![后台页面](xx/suffix/1.png)
